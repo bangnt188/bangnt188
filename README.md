@@ -13,7 +13,7 @@
 *I design backend systems with Go and craft frontend experiences with Svelte —*  
 *from monolith to micro, from prototype to production.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/bang-nguyen-182489255/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bang-nguyen-182489255/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenbang.skyone@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yoursite.com)
 
