@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm T 👋
+# Hey, I'm TBang 👋
 
 **Full-Stack Engineer** · Go · Svelte · Microservices · 3 YOE
 
